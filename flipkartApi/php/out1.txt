@@ -1,0 +1,91 @@
+Array
+(
+    [productInfoList] => Array
+        (
+            [0] => Array
+                (
+                    [productBaseInfo] => Array
+                        (
+                            [productIdentifier] => Array
+                                (
+                                    [productId] => MOBE6FT8DZXTBRZZ
+                                    [categoryPaths] => Array
+                                        (
+                                            [categoryPath] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [0] => Array
+                                                                (
+                                                                    [title] => Mobiles>Handsets
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [productAttributes] => Array
+                                (
+                                    [title] => Lenovo A6000 Plus
+                                    [productDescription] => 
+                                    [imageUrls] => Array
+                                        (
+                                            [400x400] => http://img5a.flixcart.com/image/mobile/r/z/z/lenovo-a6000-plus-a6000-plus-400x400-imae6fyhhrwnaywc.jpeg
+                                            [275x275] => http://img5a.flixcart.com/image/mobile/r/z/z/lenovo-a6000-plus-a6000-plus-275x275-imae6fyhhrwnaywc.jpeg
+                                            [75x75] => http://img6a.flixcart.com/image/mobile/r/z/z/lenovo-a6000-plus-a6000-plus-75x75-imae6fyhhrwnaywc.jpeg
+                                            [125x125] => http://img5a.flixcart.com/image/mobile/r/z/z/lenovo-a6000-plus-a6000-plus-125x125-imae6fyhhrwnaywc.jpeg
+                                            [40x40] => http://img5a.flixcart.com/image/mobile/r/z/z/lenovo-a6000-plus-a6000-plus-40x40-imae6fyhhrwnaywc.jpeg
+                                            [1100x1100] => http://img5a.flixcart.com/image/mobile/r/z/z/lenovo-a6000-plus-a6000-plus-1100x1100-imae6fyhhrwnaywc.jpeg
+                                            [100x100] => http://img6a.flixcart.com/image/mobile/r/z/z/lenovo-a6000-plus-a6000-plus-100x100-imae6fyhhrwnaywc.jpeg
+                                            [200x200] => http://img5a.flixcart.com/image/mobile/r/z/z/lenovo-a6000-plus-a6000-plus-200x200-imae6fyhhrwnaywc.jpeg
+                                            [unknown] => http://img5a.flixcart.com/image/mobile/r/z/z/lenovo-a6000-plus-a6000-plus-original-imae6fyhhrwnaywc.jpeg
+                                        )
+
+                                    [maximumRetailPrice] => Array
+                                        (
+                                            [amount] => 7499
+                                            [currency] => INR
+                                        )
+
+                                    [sellingPrice] => Array
+                                        (
+                                            [amount] => 7499
+                                            [currency] => INR
+                                        )
+
+                                    [productUrl] => http://dl.flipkart.com/dl/lenovo-a6000-plus/p/itme929n8e7jacdc?pid=MOBE6FT8DZXTBRZZ&affid=yogendrad
+                                    [productBrand] => Lenovo
+                                    [inStock] => 1
+                                    [codAvailable] => 1
+                                    [emiAvailable] => 
+                                    [discountPercentage] => 0
+                                    [cashBack] => 
+                                    [offers] => Array
+                                        (
+                                        )
+
+                                    [size] => 
+                                    [color] => Black
+                                    [sizeUnit] => 
+                                    [sizeVariants] => [MOBE7JXXKS6PWW2C, MOBE7JXXWBRAZMSB]
+                                    [colorVariants] => [MOBE7JXXKS6PWW2C, MOBE7JXXQDVZGBHZ, MOBE7JXXWBRAZMSB]
+                                    [styleCode] => 
+                                )
+
+                        )
+
+                    [productShippingBaseInfo] => Array
+                        (
+                            [shippingOptions] => 
+                        )
+
+                    [offset] => 
+                )
+
+        )
+
+)

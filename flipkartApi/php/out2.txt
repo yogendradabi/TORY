@@ -1,0 +1,16 @@
+https://affiliate-api.flipkart.net/affiliate/feeds/yogendrad/category/2oq-c1r.json?expiresAt=1440251977150&sig=87138352f92bc051be10b1e8169e0257
+277
+https://affiliate-api.flipkart.net/affiliate/feeds/yogendrad/category/2oq-c1r/55ab6fc473a4773ffb8ec220.json?expiresAt=1440251979393&sig=d27694f370055a0f8c88f6e4e6a2a75f
+
+269
+https://affiliate-api.flipkart.net/affiliate/feeds/yogendrad/category/2oq-c1r/55ab6fc573a4773ffb8ec41a.json?expiresAt=1440251996213&sig=c50faa21ed0f4035f7f7f8da860e6491
+
+293
+https://affiliate-api.flipkart.net/affiliate/feeds/yogendrad/category/2oq-c1r/55ab6fc573a4773ffb8ec617.json?expiresAt=1440252005911&sig=158e234db71a02add828dfd838de217a
+
+399
+https://affiliate-api.flipkart.net/affiliate/feeds/yogendrad/category/2oq-c1r/55ab70bb73a4773ffb8edde8.json?expiresAt=1440252022098&sig=a0140728adaceeaa92da6125737e364c
+
+365
+https://affiliate-api.flipkart.net/affiliate/feeds/yogendrad/category/2oq-c1r/55ab70bc73a4773ffb8edfff.json?expiresAt=1440252044506&sig=45c4fd1f535fea99a232b5369f098f72
+Error: Could not retrieve api listings

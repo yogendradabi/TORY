@@ -1,0 +1,20 @@
+Fusion Wear>Kurtas & Kurtis>Kurtis
+Women>Winter & Seasonal Wear>
+Apparels>Women>Western Wear>Shrugs & Jackets>Winter Jackets
+Apparels>Women>Western Wear>Shrugs & Jackets
+Apparels>Women>Ethnic Wear>Blouses
+Apparels>Women>Western Wear>Leggings & Jeggings>Leggings & Jeggings
+Apparels>Women>Western Wear>Dresses & Skirts>Dresses
+Apparels>Women>Western Wear>Trousers & Capris>Trousers
+Apparels>Women>Accessories>Scarves & Stoles
+Apparels>Women>Lingerie & Sleepwear>Night Dresses & Nighties
+Apparels>Women>Ethnic Wear>Saris
+Apparels>Women>Lingerie & Sleepwear>Camisoles & Slips
+
+
+Error: INSERT INTO data (product_id, title, product_description,image_url_01,image_url_02,image_url_03,maximum_retail_price,selling_price,product_url,product_brand,size)
+		VALUES ('TUNE78YXBVDKETYG','L\'Elegantae Solid Women\'s Tunic','','http://img5a.flixcart.com/image/tunic/t/y/g/1-1-ale-ss-15-349-l-elegantae-xl-100x100-imae77wzzwgjspfr.jpeg','http://img5a.flixcart.com/image/tunic/t/y/g/1-1-ale-ss-15-349-l-elegantae-xl-400x400-imae77wzzwgjspfr.jpeg','http://img5a.flixcart.com/image/tunic/t/y/g/1-1-ale-ss-15-349-l-elegantae-xl-700x700-imae77wzzwgjspfr.jpeg','999','899','http://dl.flipkart.com/dl/l-elegantae-solid-women-s-tunic/p/itme78yxufg6npky?pid=TUNE78YXBVDKETYG&affid=yogendrad','L'Elegantae','M')You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Elegantae','M')' at line 2
+
+
+SET SQL_SAFE_UPDATES=0;
+update data01.data set category_01='womens_clothing_shawls' where product_id regexp '^SWl*';

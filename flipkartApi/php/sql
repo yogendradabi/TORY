@@ -1,0 +1,33 @@
+CREATE TABLE data
+(
+product_id varchar(255) NOT NULL,
+title varchar(255),
+product_description text,
+image_url_01 varchar(255),
+image_url_02 varchar(255),
+image_url_03 varchar(255),
+image_url_04 varchar(255),
+maximum_retail_price int,
+selling_price int,
+product_url varchar(255),
+product_brand varchar(255),
+size varchar(50),
+PRIMARY KEY (product_id)
+)
+
+insert into CATEGORIES(categoryName) values('womens_clothing_Churidars');
+insert into CATEGORIES(categoryName) values('womens_clothing_HaremPants');
+insert into CATEGORIES(categoryName) values('womens_clothing_Jackets');
+insert into CATEGORIES(categoryName) values('womens_clothing_Kurtis');
+insert into CATEGORIES(categoryName) values('womens_clothing_Salwars');
+insert into CATEGORIES(categoryName) values('womens_clothing_Skirts');
+insert into CATEGORIES(categoryName) values('womens_clothing_Socks');
+insert into CATEGORIES(categoryName) values('womens_clothing_Lingerie');
+insert into CATEGORIES(categoryName) values('womens_clothing_shawls');
+insert into CATEGORIES(categoryName) values('womens_clothing_tops');
+
+western:	jeans=,tops=,skirts=,shorts,jackets=,dresses=
+ethanic:	kurtis=,salwars=,sarees=,leggings=,churidars=,blouses=
+footwear	footwear
+acessories:	earings,necklaces,bracelets,ring,makeup
+
